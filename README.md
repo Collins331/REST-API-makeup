@@ -16,8 +16,9 @@ $ .\venv\Scripts\activate
 ```
 
 ## Clone the Poject
+```
 $ git clone https://github.com/Collins331/REST-API-makeup.git
-
+```
 
 ## Installing Packages
 ```
